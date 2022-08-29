@@ -4,6 +4,8 @@ horos_databases/
 klinisk_baseline_ulleval_may2022/
 ullevaal_zips/
 ullevaal_axial_cts/
+ullevaal_missing_cts/
 klinisk_baseline_ullevaal.tar.bz
 buffer/
 .ipynb_checkpoints/
+ullevaal_ct_native.tar.bz2
