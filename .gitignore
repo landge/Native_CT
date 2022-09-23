@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 age_data/
 horos_databases/
@@ -10,3 +11,7 @@ buffer/
 .ipynb_checkpoints/
 ullevaal_ct_native.tar.bz2
 ullevaal_300822.tar.bz2
+=======
+image_data/
+**/.DS_Store
+>>>>>>> 8a3b112 (new_update)
